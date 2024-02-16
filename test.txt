@@ -1,0 +1,15 @@
+tl.to(".loader video",{
+    top: "-100%",
+    delay: 0.5,
+    duration: 0.5,
+    ease: "expo.inOut"
+}, "anim")
+tl.to(".loader h1",{
+    color: "black"
+}, "anim")
+tl.to(".loader", {
+    top:"-100%",
+    delay: 0.5,
+    duration: 0.5,
+    ease: "expo.inOut"
+}, "anim")
